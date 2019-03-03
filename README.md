@@ -9,7 +9,7 @@
                           ]8I   88 88     88  Yba    
                        YbbdPP   88 88888  88    Y8a 
 
-           Silk is a post Exploitation Rootkit developed by the great SilkySparrow 
+           Silk is a post Exploitation Rootkit developed by the great Silky
 
 
 
