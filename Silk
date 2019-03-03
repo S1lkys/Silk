@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#Silk Author By Edo -maland- a.k.a screetsec
-#Tested On Kali Linux , Xubuntu , Ubuntu , Backbox ( need Base32 ), Debian , Parrot
-#contact me in screetsec@gmail.com or screetsec@dracos-linux.org
-
 
 name="Silk"
 
